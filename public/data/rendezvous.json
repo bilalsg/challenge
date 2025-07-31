@@ -1,0 +1,18 @@
+[
+  {
+    "patient": "Bilal",
+    "medecin": "Dr. Dupont",
+    "specialite": "Cardiologie",
+    "date": "2025-06-21",
+    "lieu": "Clinique Pasteur",
+    "statut": "passé"
+  },
+  {
+    "patient": "Bilal",
+    "medecin": "Dr. Martin",
+    "specialite": "Généraliste",
+    "date": "2025-08-03",
+    "lieu": "Cabinet Médical Centre",
+    "statut": "à venir"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "categorie": "Nutrition",
+    "conseil": "Buvez au moins 1,5L d’eau par jour."
+  },
+  {
+    "categorie": "Sommeil",
+    "conseil": "Dormez 7 à 8 heures par nuit."
+  },
+  {
+    "categorie": "Activité physique",
+    "conseil": "Marchez 30 minutes chaque jour."
+  },
+  {
+    "categorie": "Nutrition",
+    "conseil": "Évitez les aliments ultra-transformés."
+  }
+]
