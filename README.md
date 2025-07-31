@@ -36,26 +36,29 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 
-📦 Structure de fichiers suggérée
 /app
-  /rendez-vous
-    page.tsx
-  /dossier
-    page.tsx
-  /recommandations
-    page.tsx
-  layout.tsx
-  page.tsx         
+├─ /rendez-vous
+│ └─ page.tsx
+├─ /dossier
+│ └─ page.tsx
+├─ /recommandations
+│ └─ page.tsx
+├─ layout.tsx
+└─ page.tsx
+
 /components
-  Header.tsx
-  Footer.tsx
-  AppointmentCard.tsx
-  HealthTipCard.tsx
-  FilterTabs.tsx
+├─ Header.tsx
+├─ Footer.tsx
+├─ AppointmentCard.tsx
+├─ HealthTipCard.tsx
+└─ FilterTabs.tsx
+
 /context
-  PatientContext.tsx  
+└─ PatientContext.tsx
+
 /public
-  /data
-    rendezvous.json
-    dossier.json
-    recommandations.json
+└─ /data
+├─ rendezvous.json
+├─ dossier.json
+└─ recommandations.json
+
